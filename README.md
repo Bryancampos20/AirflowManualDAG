@@ -4,10 +4,6 @@ Hello, everyone! 👋
 
 My name is Bryan Campos Castro, and I am a computer engineer currently working as a full-stack developer.
 
-## About the Project
-
-This project demonstrates how to create a simple workflow using Apache Airflow. The workflow consists of three tasks: a start task **(Start_task)**, a task that prints "Hello, world!" to the console **(Hello_task)**, and an end task **(End_task)**.
-
 ## Requirements
 
 Before running this workflow, make sure you have the following requirements installed:
