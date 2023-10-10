@@ -45,6 +45,6 @@ docker-compose -f docker-compose-LocalExecutor.yml up -d
 
 ## Results
 
-![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/result.png)
+![Screenshot (160)](https://github.com/Bryancampos20/AirflowManualDAG/blob/main/results/result.png)
 
 Happy coding! 🚀
